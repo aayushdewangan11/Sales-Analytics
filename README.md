@@ -1,7 +1,20 @@
 # Sales-Analytics
  "Sales Insights using MySQL and Tableau" is a powerful and data-driven solution designed to provide comprehensive and actionable sales analytics for businesses. By leveraging the capabilities of MySQL, a reliable and efficient relational database management system, and Tableau, a leading data visualization platform, this solution enables organizations to gain valuable insights into their sales performance.
 
-<h6>Below are listed some SQL queries:</h6>
+# Problem Statements
+Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
+
+Q1. Revenue breakdown by cities.
+
+Q2. Revenue brekdown by years & months.
+
+Q3. Top 5 customers by revenue & sales quantity.
+
+Q4. Top 5 Products by revenue.
+
+Q5. Net Profit & Profit Margin by Market
+
+<h3>Below are listed some SQL queries:</h3>
 
 1. Show all customer records
 
