@@ -41,7 +41,8 @@
 and transactions.market_code="Mark001";`
 
 <h3>DB Schema</h3>
-![image](https://github.com/aayushdewangan11/Sales-Analytics/assets/79148304/55e97a53-4fa1-4686-9419-79dfc3f82846) \
+![image](https://github.com/aayushdewangan11/Sales-Analytics/assets/79148304/93b9bdaf-db31-40e1-b1ff-b1dec5370296)
+
 
 <h3>Dashboad Visualisation</h3>
 ![Dashboard](https://github.com/aayushdewangan11/Sales-Analytics/assets/79148304/6e101e7d-46f7-4b3c-8e21-bb3c8e66db3d) \
